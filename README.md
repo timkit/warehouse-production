@@ -1,4 +1,4 @@
-Strore
+warehouse production
 ======
 
-my first web2.0 application
+My first web2.0 application for the warehouse production. I`m beginer.
